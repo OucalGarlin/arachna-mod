@@ -103,7 +103,7 @@ return function(modifiers)
 			}
 		},
 		[Item.ARACHNIDS_GRIP.ID] = {
-			Name = "阿拉克娜之握",
+			Name = "蛛形纲之握",--I cant believe how could I misread Arachnid as Arachna in the beginning
 			Description = {
 				"{{Poison}} 25%概率发射毒性泪弹",
 				"#敌人死亡后可能掉落蜘蛛卵, 拾取后获得一个脆弱的环绕物",
